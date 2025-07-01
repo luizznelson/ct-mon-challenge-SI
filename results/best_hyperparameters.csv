@@ -1,0 +1,5 @@
+Output,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,bootstrap
+Mean_1,500,10,4,sqrt,20,True
+Stdev_1,800,20,4,sqrt,20,True
+Mean_2,800,20,4,sqrt,20,True
+Stdev_2,500,10,4,sqrt,20,True

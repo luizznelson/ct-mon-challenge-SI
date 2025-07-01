@@ -1,0 +1,10 @@
+Feature,Description,Justification
+Cliente ID,ID numérico do cliente,Identifica o cliente
+Servidor ID,ID numérico do servidor,Identifica o servidor
+Taxa Média,Média das taxas nos últimos 10 intervalos,Captura a tendência geral do desempenho
+Desvio Padrão,Desvio padrão das taxas nos últimos 10 intervalos,Mede a variação na estabilidade
+Última Taxa,Última taxa registrada,Valor mais recente disponível
+Último Desvio,Último desvio padrão registrado,Variação mais recente
+Coef. Variação,Coeficiente de variação (std/mean),Relaciona variação com magnitude
+Delta,Diferença entre as últimas duas médias,Captura mudanças recentes
+Tendência,Inclinação da regressão linear nos últimos 10 intervalos,Representa a tendência temporal
